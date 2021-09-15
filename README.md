@@ -1,5 +1,5 @@
 
-## Goal : <b>mobile app developer</b> using Android and iOS. <br/>
+## Goal : <b>mobile app developer</b> using Android and iOS &  Product Manager. <br/>
 
 ### ❄ Skills
 #### Platforms & Languages
