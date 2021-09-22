@@ -23,5 +23,5 @@
 
 
 ### ☃ My stats
-![Sim I Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=0pyaq0&theme=vue-dark&show_icons=true)
+![Sim I Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=0pyaq0&theme=city_lights&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0pyaq0&layout=compact)](https://github.com/areyh817/github-readme-stats)
