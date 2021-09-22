@@ -1,27 +1,16 @@
-
-## Goal : <b>mobile app developer</b> using Android and iOS &  Product Manager. <br/>
-
-### ❄ Skills
-#### Platforms & Languages
-
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br>
+<div align="center">
 <br>
-<!--<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>-->
-
-
-### 😎 Learning
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
- <br>
- <br>
-
-
-
-### ☃ My stats
-![Sim I Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=0pyaq0&theme=city_lights&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0pyaq0&layout=compact)](https://github.com/areyh817/github-readme-stats)
+ 
+![header](https://capsule-render.vercel.app/api?type=shark&color=5688bc&height=200&section=header&text=Sim%20I%20Jin&fontSize=70&fontColor=FFFFFF&animation=twinkling)
+ 
+ <br><br><br>
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=0pyaq0&show_icons=true&theme=github_dark&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" width=418px />
+</a>
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=0pyaq0&theme=holi-theme&ring=D6E7FFFF&fire=D6E7FFFF&sideNums=5FABEEFF&currStreakNum=5FABEEFF&sideLabels=D6E7FFFF&currStreakLabel=D6E7FFFF&dates=85A4C0FF&hide_border=true" width=418px/>
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=0pyaq0&theme=react-dark&bg_color=0d1117&hide_border=true&line=00adfe&color=5bcdec" width=98%/>
+</a>
