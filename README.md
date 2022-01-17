@@ -3,7 +3,7 @@
  
 ![header](https://capsule-render.vercel.app/api?type=shark&color=5688bc&height=200&section=header&text=Sim%20Lee%20Jin&fontSize=70&fontColor=FFFFFF&animation=twinkling)
  
- <br><br><br>
+ <br><br><br> 
  
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=0pyaq0&show_icons=true&theme=github_dark&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&hide_border=true" width=418px />
