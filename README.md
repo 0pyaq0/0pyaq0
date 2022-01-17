@@ -5,7 +5,7 @@
  
  <div align="left">
  <br><br><br><br>
- - I'm attending Mirim Girls' Information Science High School <a href="https://www.e-mirim.hs.kr/main.do">🏫</a> <br>
+🐻  :   I'm attending Mirim Girls' Information Science High School <a href="https://www.e-mirim.hs.kr/main.do">🏫🔗</a> <br><br>
  - 🖱️ Skill : <img src="https://img.shields.io/badge/Java-5688bc?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-5688bc?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-5688bc?style=flat-square&logo=Android&logoColor=white"/></a>
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/React-5688bc?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-5688bc?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-5688bc?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<!--<img src="https://img.shields.io/badge/OracleDB-5688bc?style=flat-square&logo=Oracle&logoColor=white"/></a><br>--><br>
+<!--<img src="https://img.shields.io/badge/OracleDB-5688bc?style=flat-square&logo=Oracle&logoColor=white"/></a><br>--><br><br>
  - 📬 Contact : <a href="s2011@e-mirim.hs.kr">📧</a>
  
  <br><br>
