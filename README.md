@@ -5,7 +5,7 @@
  
  <div align="left">
  <br><br><br><br>
-🐻  :   I'm attending Mirim Girls' Information Science High School <a href="https://www.e-mirim.hs.kr/main.do">🏫🔗</a> <br><br>
+ - 🐻  :   I'm attending Mirim Girls' Information Science High School <a href="https://www.e-mirim.hs.kr/main.do">🏫🔗</a> <br><br>
  - 🖱️ Skill : <img src="https://img.shields.io/badge/Java-5688bc?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-5688bc?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-5688bc?style=flat-square&logo=Android&logoColor=white"/></a>
