@@ -11,8 +11,9 @@
 <img src="https://img.shields.io/badge/Android-5688bc?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-5688bc?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-5688bc?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Html5-5688bc?style=flat-square&logo=Html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Css3-5688bc?style=flat-square&logo=Css3&logoColor=white"/></a>
+<!--<img src="https://img.shields.io/badge/Html5-5688bc?style=flat-square&logo=Html5&logoColor=white"/></a>-->
+<!--<img src="https://img.shields.io/badge/Css3-5688bc?style=flat-square&logo=Css3&logoColor=white"/></a>-->
+<img src="https://img.shields.io/badge/PHP-5688bc?style=flat-square&logo=PHP&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-5688bc?style=flat-square&logo=Javascript&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/React-5688bc?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-5688bc?style=flat-square&logo=Spring&logoColor=white"/></a>
