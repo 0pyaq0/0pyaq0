@@ -8,7 +8,7 @@
  - 🐻  :   I'm attending Mirim Girls' Information Science High School <a href="https://www.e-mirim.hs.kr/main.do">🏫🔗</a> <br><br>
  - 🖱️ Skill : <img src="https://img.shields.io/badge/Java-5688bc?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-5688bc?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android-5688bc?style=flat-square&logo=Android&logoColor=white"/></a>
+<!--<img src="https://img.shields.io/badge/Android-5688bc?style=flat-square&logo=Android&logoColor=white"/></a>-->
 <img src="https://img.shields.io/badge/Python-5688bc?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-5688bc?style=flat-square&logo=C&logoColor=white"/></a>
 <!--<img src="https://img.shields.io/badge/Html5-5688bc?style=flat-square&logo=Html5&logoColor=white"/></a>-->
