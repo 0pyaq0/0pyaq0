@@ -1,6 +1,6 @@
 🌱 I am student in Mirim girls' information science highschool in south korea. <br>
 📬 Contact here - s2011@e-mirim.hs.kr
- 
+
 #### Tech Stack <br>
 <img src="https://img.shields.io/badge/Java-5688bc?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-5688bc?style=flat-square&logo=Kotlin&logoColor=white"/></a>
@@ -32,9 +32,7 @@
 </a>
 
    
-<br><br>
-
-![snake gif](https://github.com/[0pyaq0]/[0pyaq0]/blob/output/github-contribution-grid-snake.svg)
+<br><br></br>
                      
                          
                  
