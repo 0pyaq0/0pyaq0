@@ -17,6 +17,8 @@
     <img src="https://img.shields.io/badge/Insta-26689A?style=flat-square&logo=Instagram&logoColor=white"></a>
   <a href="https://leejinsim0530.notion.site/Hello-LeeJin-Sim-1de7d48002e44cb1b7455fe3f1416ea3" target="_blank">
     <img src="https://img.shields.io/badge/Notion-26689A?style=flat-square&logo=Notion&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/%EC%9D%B4%EC%A7%84-%EC%8B%AC-aa7a3422a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-26689A?style=flat-square&logo=LinkedIn&logoColor=white"></a>
     
   
 
