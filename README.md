@@ -29,6 +29,6 @@
  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=0pyaq0&theme=holi-theme&ring=D6E7FFFF&fire=D6E7FFFF&sideNums=5FABEEFF&currStreakNum=5FABEEFF&sideLabels=D6E7FFFF&currStreakLabel=D6E7FFFF&dates=85A4C0FF&hide_border=true" width=418px/>
 </a>
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=0pyaq0&theme=react-dark&bg_color=030314FF&hide_border=true&line=00adfe&color=00adfe" width=98%/>
-</a>
+</a> -->
