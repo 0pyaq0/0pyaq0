@@ -1,4 +1,4 @@
-🌱 I am student in Mirim girls' information science highschool in south korea. <br>
+🌱 I'm Junior Developer. <br>
 📬 Contact here - 0devbenny@gmail.com
  
 #### Tech Stack <br>
