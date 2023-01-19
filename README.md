@@ -1,5 +1,5 @@
 🌱 I am student in Mirim girls' information science highschool in south korea. <br>
-📬 Contact here - s2011@e-mirim.hs.kr
+📬 Contact here - 0devbenny@gmail.com
  
 #### Tech Stack <br>
 <img src="https://img.shields.io/badge/Java-5688bc?style=flat-square&logo=Java&logoColor=white"/></a>
