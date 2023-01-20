@@ -1,15 +1,12 @@
 🌱 I'm Junior Developer. <br>
 📬 Contact here - 0devbenny@gmail.com
  
-#### Tech Stack <br>
+#### Main Tech<br>
 <img src="https://img.shields.io/badge/Java-5688bc?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-5688bc?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-5688bc?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-5688bc?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android-5688bc?style=flat-square&logo=Android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-5688bc?style=flat-square&logo=C&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MySQL-5688bc?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-5688bc?style=flat-square&logo=Python&logoColor=white"/></a>
    
  #### SNS & Blog<br>
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0pyaq0&count_bg=%2326689A&title_bg=%2326689A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
