@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/MySQL-5688bc?style=flat-square&logo=MySQL&logoColor=white"/></a>
    
  #### About me<br>
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0pyaq0&count_bg=%2326689A&title_bg=%2326689A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0pyaq0&count_bg=%2326689A&title_bg=%2326689A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
   <a href="https://leejinsim0530.notion.site/Hello-I-m-LeeJin-Sim-1de7d48002e44cb1b7455fe3f1416ea3" target="_blank">
     <img src="https://img.shields.io/badge/Notion-26689A?style=flat-square&logo=Notion&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/%EC%9D%B4%EC%A7%84-%EC%8B%AC-aa7a3422a" target="_blank">
