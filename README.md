@@ -1,4 +1,4 @@
-🌱 I'm a junior developer working at [GS ITM](https://www.gsitm.com/) <br>
+🌱 I'm a junior developer <br>
 📬 Contact here - 0devbenny@gmail.com
  
 #### Main Tech<br>
