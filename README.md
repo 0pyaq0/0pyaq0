@@ -10,7 +10,7 @@ public class LeeJinSim {
     public LeeJinSim() {
         this.gitHub = new GitHub("0pyaq0");
         this.email = new Email("0devbenny@gmail.com");
-        this.techStack = Arrays.asList("Java", "Spring Boot", "Spring Security", "MySQL", "Architecture");
+        this.techStack = Arrays.asList("Java", "Spring Boot", "Spring Security", "MySQL", "Redis", "Architecture");
     }
 }
 ```
