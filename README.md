@@ -1,5 +1,5 @@
 🌱 I'm a junior backend developer <br>
-📬 Contact here - 0devbenny@gmail.com
+📬 Contact here - 0devbenny@gmail.com 
 
 ```java
 public class LeeJinSim {
