@@ -2,7 +2,7 @@
 📬 Contact here - 0devbenny@gmail.com 
 
 ```java
-public class LeeJinSim {
+public class LeeJinSim { 
     private GitHub gitHub;
     private Email email;
     private List<Technology> techStack;
