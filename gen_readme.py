@@ -86,7 +86,12 @@ def get_repos():
 def contributor_lines(repo_full_name, retries=8):
     """레포의 /stats/contributors에서 내 additions - deletions. 계산 중(202)이면 재시도."""
     for attempt in range(retries):
-        status, data = request(f"/repos/{repo_full_name}/stats/contributors")
+        try:
+            status, data = request(f"/repos/{repo_full_name}/stats/contributors")
+        except ApiError as e:  # 차단된 레포 등 한 레포 오류로 전체를 멈추지 않음
+            print(f"경고: {repo_full_name} 통계를 가져오지 못해 Lines of Code에서 제외했습니다 ({e}).",
+                  file=sys.stderr)
+            return 0
         if status == 202:
             time.sleep(min(2 ** attempt, 30))
             continue
