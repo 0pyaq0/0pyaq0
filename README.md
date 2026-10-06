@@ -1,16 +1,27 @@
-🌱 I'm a junior backend developer <br>
-📬 Contact here - 0devbenny@gmail.com 
- 
-```java
-public class LeeJinSim { 
-    private GitHub gitHub;
-    private Email email;
-    private List<Technology> techStack;
+```text
+0pyaq0@github ──────────────────────────────────────────────────
+. OS: ..................................................... [OS]
+. Uptime: ............................................. [Uptime]
+. Host: .......................... 한국폴리텍대학 서울강서캠퍼스
+. Kernel: ................................. 빅데이터소프트웨어과
+. IDE: ................................................... [IDE]
+. 
+. Languages.Programming: ............... [Programming languages]
+. Languages.Computer: ..................... [Computer languages]
+. Languages.Real: ....................................... 한국어
+. 
+. Hobbies.Software: ......................... [Software hobbies]
+. Hobbies.Hardware: ......................... [Hardware hobbies]
 
-    public LeeJinSim() {
-        this.gitHub = new GitHub("0pyaq0");
-        this.email = new Email("0devbenny@gmail.com");
-        this.techStack = Arrays.asList("Java", "Spring Boot", "Spring Security", "MySQL", "Redis", "Architecture");
-    }
-}
+- Contact ──────────────────────────────────────────────────────
+. Email.Personal: ............................. [Personal email]
+. LinkedIn: ......................................... [LinkedIn]
+. Discord: ........................................... [Discord]
+
+- GitHub Stats ─────────────────────────────────────────────────
+. Repos: .................................................... 54
+. Commits: ................................................. 147
+. Stars: ..................................................... 4
+. Followers: ................................................ 59
+. Lines of Code on GitHub: ............................... 5,519
 ```
