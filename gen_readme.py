@@ -20,24 +20,17 @@ USERNAME = "0pyaq0"
 # ─── 여기의 [ ] 값을 직접 채워 주세요 ───────────────────────────
 # ("항목", "값") 순서대로 출력됩니다. 항목이 None이면 ". " 빈 줄입니다.
 INFO = [
-    ("OS", "[OS]"),
-    ("Uptime", "[Uptime]"),
-    ("Host", "한국폴리텍대학 서울강서캠퍼스"),
-    ("Kernel", "빅데이터소프트웨어과"),
-    ("IDE", "[IDE]"),
     (None, None),
-    ("Languages.Programming", "[Programming languages]"),
-    ("Languages.Computer", "[Computer languages]"),
-    ("Languages.Real", "한국어"),
+    ("Languages.Programming", "Java, Spring Boot, Python"),
+    ("Languages.Real", "Korean"),
     (None, None),
-    ("Hobbies.Software", "[Software hobbies]"),
-    ("Hobbies.Hardware", "[Hardware hobbies]"),
+    ("Hobbies.Software", "써보지 못한 기술을 사용하는 것을 좋아합니다."),
 ]
 
 CONTACT = [
-    ("Email.Personal", "[Personal email]"),
-    ("LinkedIn", "[LinkedIn]"),
-    ("Discord", "[Discord]"),
+    ("Email.Personal", "0devbenny@gmail.com"),
+    ("LinkedIn", "LeeJin Sim"),
+    ("Discord", "0pyaq0"),
 ]
 
 # 왼쪽에 넣을 ASCII 아트 파일 (없으면 정보 패널만 그립니다)
