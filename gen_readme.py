@@ -13,7 +13,10 @@ import urllib.error
 import urllib.request
 
 USERNAME = "0pyaq0"
-WIDTH = 64  # 한 줄 전체 폭 (한글 등 넓은 문자는 2칸)
+WIDTH = 100  # 한 줄 전체 폭 (영문 기준 칸 수)
+# GitHub 코드 블록(Windows)에서 한글 한 글자는 영문 2칸이 아니라 약 1.875칸 폭으로 보입니다.
+# 다른 환경에서 한글 줄이 어긋나 보이면 이 값을 조정하세요 (예: 2).
+WIDE_CHAR_WIDTH = 1.875
 
 # ─── 여기의 [ ] 값을 직접 채워 주세요 ───────────────────────────
 # ("항목", "값") 순서대로 출력됩니다. 항목이 None이면 ". " 빈 줄입니다.
@@ -122,19 +125,19 @@ def get_stats():
 
 
 def width(text):
-    return sum(2 if unicodedata.east_asian_width(ch) in "WF" else 1 for ch in text)
+    return sum(WIDE_CHAR_WIDTH if unicodedata.east_asian_width(ch) in "WF" else 1 for ch in text)
 
 
 def line(key, value):
     if key is None:
         return ". "
     left, right = f". {key}: ", f" {value}"
-    dots = WIDTH - width(left) - width(right)
+    dots = round(WIDTH - width(left) - width(right))
     return left + "." * max(dots, 1) + right
 
 
 def rule(title):
-    return title + " " + "─" * (WIDTH - width(title) - 1)
+    return title + " " + "─" * round(WIDTH - width(title) - 1)
 
 
 def render(stats):
