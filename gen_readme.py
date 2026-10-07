@@ -20,10 +20,8 @@ USERNAME = "0pyaq0"
 # ─── 여기의 [ ] 값을 직접 채워 주세요 ───────────────────────────
 # ("항목", "값") 순서대로 출력됩니다. 항목이 None이면 ". " 빈 줄입니다.
 INFO = [
-    (None, None),
     ("Languages.Programming", "Java, Spring Boot, Python"),
     ("Languages.Real", "Korean"),
-    (None, None),
     ("Hobbies.Software", "써보지 못한 기술을 사용하는 것을 좋아합니다."),
 ]
 
@@ -176,7 +174,7 @@ class Panel:
         self.y += LINE_H
 
     def rule(self, title):
-        self.text(escape(title) + " " + span("cc", "─" * (COLS - len(title) - 1)))
+        self.text(escape(title) + " " + span("cc", "─" * round(COLS - cols(title) - 1)))
         self.newline()
 
     def item(self, key, value):
@@ -228,7 +226,7 @@ def render_svg(stats, theme):
     art_w = (max(map(len, art)) * ART_CHAR_W + PAD) if art else 0
 
     p = Panel(PAD + art_w)
-    p.rule(f"{USERNAME}@github")
+    p.rule(f"{USERNAME}@github 🌱")
     for k, v in INFO:
         p.item(k, v)
     p.rule("- Contact")
@@ -241,7 +239,10 @@ def render_svg(stats, theme):
     p.text(span("cc", "─" * COLS))
 
     width = round(p.right + PAD)
-    height = max(p.y + PAD, PAD * 2 + len(art) * ART_LINE_H)
+    # 정보 패널과 아트를 모두 세로 가운데에 맞춥니다.
+    panel_top, panel_bottom = PAD + 20 - FONT_SIZE, p.y + 6
+    height = max(panel_bottom - panel_top + PAD * 2, PAD * 2 + len(art) * ART_LINE_H)
+    panel_dy = (height - (panel_top + panel_bottom)) / 2
     art_top = (height - len(art) * ART_LINE_H) / 2 + ART_FONT_SIZE
     art_svg = "\n".join(
         f'<text x="{PAD}" y="{art_top + i * ART_LINE_H:.1f}" font-size="{ART_FONT_SIZE}px">{escape(line)}</text>'
@@ -261,7 +262,9 @@ text {{ fill: {c['text']}; }}
 </style>
 <rect width="{width}px" height="{height}px" fill="{c['bg']}" rx="15"/>
 {art_svg}
+<g transform="translate(0 {panel_dy:.1f})">
 {chr(10).join(p.out)}
+</g>
 </svg>
 """
 
