@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1165px" height="710px" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; size-adjust: 109%; }
+text, tspan { white-space: pre; }
+text { fill: #c9d1d9; }
+.key { fill: #ae75da; }
+.value { fill: #a5d6ff; }
+.cc { fill: #616e7f; }
+.add { fill: #3fb950; }
+.del { fill: #f85149; }
+</style>
+<rect width="1165px" height="710px" fill="#161b22" rx="15"/>
+<text x="30" y="91.0" font-size="16px">                    ▒▒▒▒▒▒▒▒▒▒▒▒</text>
+<text x="30" y="111.0" font-size="16px">              ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</text>
+<text x="30" y="131.0" font-size="16px">          ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</text>
+<text x="30" y="151.0" font-size="16px">        ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</text>
+<text x="30" y="171.0" font-size="16px">      ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</text>
+<text x="30" y="191.0" font-size="16px">      ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</text>
+<text x="30" y="211.0" font-size="16px">    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</text>
+<text x="30" y="231.0" font-size="16px">    ▒▒▒▒▒▒▒▒▒▒██▒▒▒▒▒▒▒▒██▒▒▒▒▒▒▒▒██▒▒▒▒▒▒▒▒▒▒▒▒</text>
+<text x="30" y="251.0" font-size="16px">    ▒▒▒▒▒▒▒▒██████▒▒██████████▒▒████████▒▒▒▒▒▒▒▒</text>
+<text x="30" y="271.0" font-size="16px">    ▒▒▒▒▒▒████████████████████████████████▒▒▒▒▒▒</text>
+<text x="30" y="291.0" font-size="16px">    ▒▒▒▒▒▒████████████████████████████████▒▒▒▒▒▒</text>
+<text x="30" y="311.0" font-size="16px">    ▒▒▒▒▒▒████░░░░████████████████░░░░████▒▒▒▒▒▒</text>
+<text x="30" y="331.0" font-size="16px">    ▒▒▒▒▒▒████░░░░████████████████░░░░████▒▒▒▒▒▒</text>
+<text x="30" y="351.0" font-size="16px">    ▒▒▒▒▒▒████████████████████████████████▒▒▒▒▒▒</text>
+<text x="30" y="371.0" font-size="16px">    ▒▒▒▒▒▒████████████████████████████████▒▒▒▒▒▒</text>
+<text x="30" y="391.0" font-size="16px">    ▒▒▒▒▒▒██████████████▓▓▓▓██████████████▒▒▒▒▒▒</text>
+<text x="30" y="411.0" font-size="16px">    ▒▒▒▒▒▒▒▒██████████▓▓▓▓▓▓▓▓████████████▒▒▒▒▒▒</text>
+<text x="30" y="431.0" font-size="16px">    ▒▒▒▒▒▒▒▒▒▒██████████████████████████▒▒▒▒▒▒▒▒</text>
+<text x="30" y="451.0" font-size="16px">    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒██████████████████▒▒▒▒▒▒▒▒▒▒▒▒</text>
+<text x="30" y="471.0" font-size="16px">    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</text>
+<text x="30" y="491.0" font-size="16px">    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</text>
+<text x="30" y="511.0" font-size="16px">    ▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓██████████████▓▓▓▓▒▒▒▒▒▒▒▒▒▒</text>
+<text x="30" y="531.0" font-size="16px">  ▒▒▒▒▒▒▒▒▒▒░░░░░░▓▓▓▓██████████▓▓▓▓░░░░░░▒▒▒▒▒▒▒▒</text>
+<text x="30" y="551.0" font-size="16px">  ▒▒▒▒▒▒▒▒░░░░░░░░░░▓▓▓▓██████▓▓▓▓░░░░░░░░░░▒▒▒▒▒▒</text>
+<text x="30" y="571.0" font-size="16px">▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░▓▓▓▓██▓▓▓▓░░░░░░░░░░░░░░▒▒▒▒▒▒</text>
+<text x="30" y="591.0" font-size="16px">▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░▒▒░░░░░░░░░░░░░░░░░░░░▒▒▒▒</text>
+<text x="30" y="611.0" font-size="16px">▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒▒</text>
+<text x="30" y="631.0" font-size="16px">▒▒░░░░░░░░░░░░░░░░░░░░░░░░▒▒░░░░░░░░░░░░░░░░░░░░░░░░</text>
+<text x="559.2" y="50" textLength="576.0" lengthAdjust="spacing">0pyaq0@github <tspan class="cc">──────────────────────────────────────────────</tspan></text>
+<text x="559.2" y="80" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................................. </tspan><tspan class="value">[OS]</tspan></text>
+<text x="559.2" y="110" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">[Uptime]</tspan></text>
+<text x="559.2" y="140" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">한국폴리텍대학 서울강서캠퍼스</tspan></text>
+<text x="559.2" y="170" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">빅데이터소프트웨어과</tspan></text>
+<text x="559.2" y="200" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">[IDE]</tspan></text>
+<text x="559.2" y="230"><tspan class="cc">. </tspan></text>
+<text x="559.2" y="260" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">[Programming languages]</tspan></text>
+<text x="559.2" y="290" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">[Computer languages]</tspan></text>
+<text x="559.2" y="320" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">한국어</tspan></text>
+<text x="559.2" y="350"><tspan class="cc">. </tspan></text>
+<text x="559.2" y="380" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">[Software hobbies]</tspan></text>
+<text x="559.2" y="410" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">[Hardware hobbies]</tspan></text>
+<text x="559.2" y="440" textLength="576.0" lengthAdjust="spacing">- Contact <tspan class="cc">──────────────────────────────────────────────────</tspan></text>
+<text x="559.2" y="470" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">[Personal email]</tspan></text>
+<text x="559.2" y="500" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">[LinkedIn]</tspan></text>
+<text x="559.2" y="530" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">[Discord]</tspan></text>
+<text x="559.2" y="560" textLength="576.0" lengthAdjust="spacing">- GitHub Stats <tspan class="cc">─────────────────────────────────────────────</tspan></text>
+<text x="559.2" y="590" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">54</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">4</tspan></text>
+<text x="559.2" y="620" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">149</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">59</tspan></text>
+<text x="559.2" y="650" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">5,537</tspan> ( <tspan class="add">6,010++</tspan>, <tspan class="del">473--</tspan> )</text>
+<text x="559.2" y="680" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">────────────────────────────────────────────────────────────</tspan></text>
+</svg>
