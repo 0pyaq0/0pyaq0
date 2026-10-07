@@ -41,7 +41,9 @@ CONTACT = [
 ]
 
 # 왼쪽에 넣을 ASCII 아트 파일 (없으면 정보 패널만 그립니다)
+# 다크 모드 기준(밝은 부분일수록 진한 글자)으로 저장하고, 라이트 모드에서는 자동으로 반전합니다.
 ASCII_ART_FILE = "ascii_art.txt"
+ART_RAMP = ".:-=+*#%@"
 # ────────────────────────────────────────────────────────────────
 
 COLS = 60          # 정보 패널 한 줄 폭 (영문 기준 칸 수)
@@ -49,6 +51,9 @@ FONT_SIZE = 16
 CHAR_W = 9.6       # 16px 고정폭 글꼴의 영문 글자 폭 (0.6em)
 LINE_H = 30
 PAD = 30
+ART_FONT_SIZE = 12  # ASCII 아트는 더 작은 글자로 촘촘하게 그립니다
+ART_CHAR_W = ART_FONT_SIZE * 0.6
+ART_LINE_H = 14
 # 한글은 대부분의 글꼴에서 약 1em(=16px) 폭이라 영문 칸으로 환산하면 약 1.67칸입니다.
 # 각 줄은 textLength로 패널 폭에 정확히 맞춰 그리므로, 글꼴이 달라도 오른쪽 끝이 맞습니다.
 WIDE_CHAR_COLS = FONT_SIZE / CHAR_W
@@ -217,10 +222,17 @@ def read_ascii_art():
         return f.read().rstrip("\n").split("\n")
 
 
+def invert_art(lines):
+    table = str.maketrans(ART_RAMP, ART_RAMP[::-1])
+    return [line.translate(table) for line in lines]
+
+
 def render_svg(stats, theme):
     c = THEMES[theme]
     art = read_ascii_art()
-    art_w = (max(map(len, art)) * CHAR_W + PAD) if art else 0
+    if theme == "light":
+        art = invert_art(art)
+    art_w = (max(map(len, art)) * ART_CHAR_W + PAD) if art else 0
 
     p = Panel(PAD + art_w)
     p.rule(f"{USERNAME}@github")
@@ -236,9 +248,11 @@ def render_svg(stats, theme):
     p.text(span("cc", "─" * COLS))
 
     width = round(p.right + PAD)
-    height = max(p.y + PAD, PAD * 2 + len(art) * (FONT_SIZE + 4))
-    art_svg = "".join(
-        f'<text x="{PAD}" y="{PAD + 16 + i * (FONT_SIZE + 4)}">{escape(line)}</text>' for i, line in enumerate(art))
+    height = max(p.y + PAD, PAD * 2 + len(art) * ART_LINE_H)
+    art_top = (height - len(art) * ART_LINE_H) / 2 + ART_FONT_SIZE
+    art_svg = "\n".join(
+        f'<text x="{PAD}" y="{art_top + i * ART_LINE_H:.1f}" font-size="{ART_FONT_SIZE}px">{escape(line)}</text>'
+        for i, line in enumerate(art))
 
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="{width}px" height="{height}px" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" font-size="{FONT_SIZE}px">
