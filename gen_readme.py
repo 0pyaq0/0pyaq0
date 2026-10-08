@@ -34,7 +34,7 @@ CONTACT = [
 # 왼쪽에 넣을 ASCII 아트 파일 (없으면 정보 패널만 그립니다)
 # 다크 모드 기준(밝은 부분일수록 진한 글자)으로 저장하고, 라이트 모드에서는 자동으로 반전합니다.
 ASCII_ART_FILE = "ascii_art.txt"
-ART_RAMP = "░▒▓█"
+ART_RAMP = ".:-=+*#%@"
 # ────────────────────────────────────────────────────────────────
 
 COLS = 60          # 정보 패널 한 줄 폭 (영문 기준 칸 수)
@@ -42,9 +42,9 @@ FONT_SIZE = 16
 CHAR_W = 9.6       # 16px 고정폭 글꼴의 영문 글자 폭 (0.6em)
 LINE_H = 30
 PAD = 30
-ART_FONT_SIZE = 16
+ART_FONT_SIZE = 12  # ASCII 아트는 작은 글자로 촘촘하게 그립니다
 ART_CHAR_W = ART_FONT_SIZE * 0.6
-ART_LINE_H = 20
+ART_LINE_H = 14
 # 한글은 대부분의 글꼴에서 약 1em(=16px) 폭이라 영문 칸으로 환산하면 약 1.67칸입니다.
 # 각 줄은 textLength로 패널 폭에 정확히 맞춰 그리므로, 글꼴이 달라도 오른쪽 끝이 맞습니다.
 WIDE_CHAR_COLS = FONT_SIZE / CHAR_W
