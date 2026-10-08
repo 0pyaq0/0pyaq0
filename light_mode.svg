@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1165px" height="620px" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" width="1242px" height="640px" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" font-size="16px">
 <style>
 @font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; size-adjust: 109%; }
 text, tspan { white-space: pre; }
@@ -10,48 +10,49 @@ text { fill: #24292f; }
 .add { fill: #1a7f37; }
 .del { fill: #cf222e; }
 </style>
-<rect width="1165px" height="620px" fill="#f6f8fa" rx="15"/>
-<text x="30" y="46.0" font-size="16px">                    ▓▓▓▓▓▓▓▓▓▓▓▓</text>
-<text x="30" y="66.0" font-size="16px">              ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
-<text x="30" y="86.0" font-size="16px">          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
-<text x="30" y="106.0" font-size="16px">        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
-<text x="30" y="126.0" font-size="16px">      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
-<text x="30" y="146.0" font-size="16px">      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
-<text x="30" y="166.0" font-size="16px">    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
-<text x="30" y="186.0" font-size="16px">    ▓▓▓▓▓▓▓▓▓▓░░▓▓▓▓▓▓▓▓░░▓▓▓▓▓▓▓▓░░▓▓▓▓▓▓▓▓▓▓▓▓</text>
-<text x="30" y="206.0" font-size="16px">    ▓▓▓▓▓▓▓▓░░░░░░▓▓░░░░░░░░░░▓▓░░░░░░░░▓▓▓▓▓▓▓▓</text>
-<text x="30" y="226.0" font-size="16px">    ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓▓▓▓▓</text>
-<text x="30" y="246.0" font-size="16px">    ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓▓▓▓▓</text>
-<text x="30" y="266.0" font-size="16px">    ▓▓▓▓▓▓░░░░████░░░░░░░░░░░░░░░░████░░░░▓▓▓▓▓▓</text>
-<text x="30" y="286.0" font-size="16px">    ▓▓▓▓▓▓░░░░████░░░░░░░░░░░░░░░░████░░░░▓▓▓▓▓▓</text>
-<text x="30" y="306.0" font-size="16px">    ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓▓▓▓▓</text>
-<text x="30" y="326.0" font-size="16px">    ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓▓▓▓▓</text>
-<text x="30" y="346.0" font-size="16px">    ▓▓▓▓▓▓░░░░░░░░░░░░░░▒▒▒▒░░░░░░░░░░░░░░▓▓▓▓▓▓</text>
-<text x="30" y="366.0" font-size="16px">    ▓▓▓▓▓▓▓▓░░░░░░░░░░▒▒▒▒▒▒▒▒░░░░░░░░░░░░▓▓▓▓▓▓</text>
-<text x="30" y="386.0" font-size="16px">    ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓▓▓▓▓▓▓</text>
-<text x="30" y="406.0" font-size="16px">    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓</text>
-<text x="30" y="426.0" font-size="16px">    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
-<text x="30" y="446.0" font-size="16px">    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
-<text x="30" y="466.0" font-size="16px">    ▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░▒▒▒▒▓▓▓▓▓▓▓▓▓▓</text>
-<text x="30" y="486.0" font-size="16px">  ▓▓▓▓▓▓▓▓▓▓██████▒▒▒▒░░░░░░░░░░▒▒▒▒██████▓▓▓▓▓▓▓▓</text>
-<text x="30" y="506.0" font-size="16px">  ▓▓▓▓▓▓▓▓██████████▒▒▒▒░░░░░░▒▒▒▒██████████▓▓▓▓▓▓</text>
-<text x="30" y="526.0" font-size="16px">▓▓▓▓▓▓▓▓██████████████▒▒▒▒░░▒▒▒▒██████████████▓▓▓▓▓▓</text>
-<text x="30" y="546.0" font-size="16px">▓▓▓▓▓▓████████████████████▓▓████████████████████▓▓▓▓</text>
-<text x="30" y="566.0" font-size="16px">▓▓▓▓██████████████████████████████████████████████▓▓</text>
-<text x="30" y="586.0" font-size="16px">▓▓████████████████████████▓▓████████████████████████</text>
-<g transform="translate(0 85.0)">
-<text x="559.2" y="50" textLength="576.0" lengthAdjust="spacing">0pyaq0@github 🌱 <tspan class="cc">───────────────────────────────────────────</tspan></text>
-<text x="559.2" y="80" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Java, Spring Boot, Python</tspan></text>
-<text x="559.2" y="110" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Korean</tspan></text>
-<text x="559.2" y="140" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> . </tspan><tspan class="value">써보지 못한 기술을 사용하는 것을 좋아합니다.</tspan></text>
-<text x="559.2" y="170" textLength="576.0" lengthAdjust="spacing">- Contact <tspan class="cc">──────────────────────────────────────────────────</tspan></text>
-<text x="559.2" y="200" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">0devbenny@gmail.com</tspan></text>
-<text x="559.2" y="230" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">LeeJin Sim</tspan></text>
-<text x="559.2" y="260" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">0pyaq0</tspan></text>
-<text x="559.2" y="290" textLength="576.0" lengthAdjust="spacing">- GitHub Stats <tspan class="cc">─────────────────────────────────────────────</tspan></text>
-<text x="559.2" y="320" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">54</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">4</tspan></text>
-<text x="559.2" y="350" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">154</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">60</tspan></text>
-<text x="559.2" y="380" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">5,498</tspan> ( <tspan class="add">6,063++</tspan>, <tspan class="del">565--</tspan> )</text>
-<text x="559.2" y="410" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">────────────────────────────────────────────────────────────</tspan></text>
+<rect width="1242px" height="640px" fill="#f6f8fa" rx="15"/>
+<text x="30" y="46.0" font-size="16px">          ▓▓                        ▓▓▓▓</text>
+<text x="30" y="66.0" font-size="16px">        ▓▓▓▓▓▓                    ▓▓▓▓▓▓</text>
+<text x="30" y="86.0" font-size="16px">        ▓▓▓▓▓▓                  ▓▓▓▓▓▓▓▓</text>
+<text x="30" y="106.0" font-size="16px">        ▓▓▓▓▓▓▓▓              ▓▓▓▓▓▓▓▓▓▓</text>
+<text x="30" y="126.0" font-size="16px">        ▓▓▓▓▓▓▓▓  ▒▒▒▒▒▒▒▒  ▓▓▓▓▓▓▓▓▓▓▓▓</text>
+<text x="30" y="146.0" font-size="16px">        ▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓</text>
+<text x="30" y="166.0" font-size="16px">          ▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓</text>
+<text x="30" y="186.0" font-size="16px">          ▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓</text>
+<text x="30" y="206.0" font-size="16px">          ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓</text>
+<text x="30" y="226.0" font-size="16px">        ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒          ▓▓▓▓▓▓▓▓▓▓</text>
+<text x="30" y="246.0" font-size="16px">        ▒▒▒▒    ▒▒▒▒▒▒▒▒▒▒    ▒▒▒▒▒▒        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
+<text x="30" y="266.0" font-size="16px">        ▒▒▒▒  ░░▒▒▒▒▒▒▒▒▒▒░░  ▒▒▒▒▒▒      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
+<text x="30" y="286.0" font-size="16px">        ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
+<text x="30" y="306.0" font-size="16px">        ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
+<text x="30" y="326.0" font-size="16px">      ▒▒▒▒▒▒▒▒▒▒▒▒░░▒▒▒▒░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
+<text x="30" y="346.0" font-size="16px">░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒        ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓</text>
+<text x="30" y="366.0" font-size="16px">░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░▓▓▓▓▓▓</text>
+<text x="30" y="386.0" font-size="16px">  ▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░▒▒▒▒        ▒▒▒▒░░░░▓▓▓▓▓▓▓▓</text>
+<text x="30" y="406.0" font-size="16px">            ░░░░░░░░░░░░░░░░░░░░████      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
+<text x="30" y="426.0" font-size="16px">            ░░░░░░░░░░░░░░░░░░░░░░████  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
+<text x="30" y="446.0" font-size="16px">            ░░░░░░░░░░░░░░░░░░░░░░████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
+<text x="30" y="466.0" font-size="16px">            ░░░░░░░░░░░░░░░░░░░░░░████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
+<text x="30" y="486.0" font-size="16px">              ░░░░░░░░░░░░░░░░░░░░████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
+<text x="30" y="506.0" font-size="16px">            ▒▒▒▒░░░░░░░░░░░░░░░░▒▒▒▒██▓▓▓▓▓▓▓▓▓▓▓▓</text>
+<text x="30" y="526.0" font-size="16px">          ▒▒▒▒▒▒▒▒░░░░░░░░░░░░▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓</text>
+<text x="30" y="546.0" font-size="16px">          ▒▒▒▒▒▒▒▒▒▒        ▒▒▒▒▒▒▒▒▒▒▒▒</text>
+<text x="30" y="566.0" font-size="16px">          ▒▒▒▒▒▒▒▒            ▒▒▒▒▒▒▒▒▒▒</text>
+<text x="30" y="586.0" font-size="16px">        ▒▒▒▒▒▒▒▒▒▒            ▒▒▒▒▒▒▒▒▒▒▒▒</text>
+<text x="30" y="606.0" font-size="16px">      ░░▒▒░░▒▒░░▒▒            ▒▒▒▒▒▒▒▒▒▒░░▒▒░░</text>
+<g transform="translate(0 95.0)">
+<text x="636.0" y="50" textLength="576.0" lengthAdjust="spacing">0pyaq0@github 🌱 <tspan class="cc">───────────────────────────────────────────</tspan></text>
+<text x="636.0" y="80" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Java, Spring Boot, Python</tspan></text>
+<text x="636.0" y="110" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Korean</tspan></text>
+<text x="636.0" y="140" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> . </tspan><tspan class="value">써보지 못한 기술을 사용하는 것을 좋아합니다.</tspan></text>
+<text x="636.0" y="170" textLength="576.0" lengthAdjust="spacing">- Contact <tspan class="cc">──────────────────────────────────────────────────</tspan></text>
+<text x="636.0" y="200" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">0devbenny@gmail.com</tspan></text>
+<text x="636.0" y="230" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">LeeJin Sim</tspan></text>
+<text x="636.0" y="260" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">0pyaq0</tspan></text>
+<text x="636.0" y="290" textLength="576.0" lengthAdjust="spacing">- GitHub Stats <tspan class="cc">─────────────────────────────────────────────</tspan></text>
+<text x="636.0" y="320" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">54</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">4</tspan></text>
+<text x="636.0" y="350" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">153</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">59</tspan></text>
+<text x="636.0" y="380" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">5,537</tspan> ( <tspan class="add">6,010++</tspan>, <tspan class="del">473--</tspan> )</text>
+<text x="636.0" y="410" textLength="576.0" lengthAdjust="spacing"><tspan class="cc">────────────────────────────────────────────────────────────</tspan></text>
 </g>
 </svg>
